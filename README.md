@@ -73,22 +73,3 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Reyirel&theme=radical)  
 
 ---
-
-## 🔗 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://tuportafolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge">
-  </a>
-  <a href="mailto:ch441102@uaeh.edu.mx">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge">
-  </a>
-</p>
-
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/tuusuario)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge)](https://luis-portfolio-green.vercel.app/)
-
