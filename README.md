@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 - 🔭 I’m currently working on **Ixmiquilpan page**  
-- 👨‍💻 All of my projects are available at [My Portfolio]([https://luis-portfolio-green.vercel.app/](https://codefolio-luis2790.vercel.app/))  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://codefolio-luis2790.vercel.app/)  
 - 💬 Ask me about **React**  
 - 📫 How to reach me **ch441102@uaeh.edu.mx**  
 
