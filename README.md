@@ -62,14 +62,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-![Reyirel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reyirel&show_icons=true&theme=radical)  
-
 ## 🔥 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyirel&layout=compact&theme=radical)  
-
-## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Reyirel&theme=radical)  
-
 ---
