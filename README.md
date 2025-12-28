@@ -81,27 +81,24 @@ Desarrollador Frontend & Full Stack · React / Next.js · Aplicaciones web escal
 - 🚀 **Entrega orientada a producto** (resolver necesidades reales y medibles)
 
 ---
-
-## 📈 Actividad y enfoque de trabajo
+## 🧪 En producción
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%C3%B3digo%20limpio-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Componentizaci%C3%B3n-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Arquitectura%20Frontend-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/UX%20y%20Accesibilidad-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Estado-En%20desarrollo%20continuo-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deploy-Vercel%20%7C%20Firebase-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Calidad-Lint%20%2B%20Formateo-111827?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enfoque-UX%20%2B%20Performance-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reyirel&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Construyo+interfaces+rápidas%2C+accesibles+y+escalables.;React+%2F+Next.js+%2F+TypeScript+para+productos+reales.;Diseño+sistemas+de+componentes+y+UI+consistente.;Integración+de+APIs%2C+estado%2C+auth+y+dashboards." alt="Typing SVG" />
 </p>
 
-### 🧠 Cómo trabajo
-
-- Diseño interfaces **claras, accesibles y orientadas al usuario**
-- Construyo componentes **reutilizables y escalables**
-- Priorizo **rendimiento, mantenibilidad y buenas prácticas**
-- Trabajo con control de versiones y flujos colaborativos
-
+### 🧠 Lo que priorizo
+- ⚡ Rendimiento (Core Web Vitals, carga rápida, UI eficiente)
+- 🧩 Componentes reutilizables y arquitectura mantenible
+- ♿ Accesibilidad y experiencia de usuario
+- 🔒 Integración segura con APIs, auth y roles
 
 ---
 
