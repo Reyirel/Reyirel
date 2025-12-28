@@ -90,10 +90,6 @@ Desarrollador Frontend & Full Stack · React / Next.js · Aplicaciones web escal
   <img src="https://img.shields.io/badge/Enfoque-UX%20%2B%20Performance-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Construyo+interfaces+rápidas%2C+accesibles+y+escalables.;React+%2F+Next.js+%2F+TypeScript+para+productos+reales.;Diseño+sistemas+de+componentes+y+UI+consistente.;Integración+de+APIs%2C+estado%2C+auth+y+dashboards." alt="Typing SVG" />
-</p>
-
 ### 🧠 Lo que priorizo
 - ⚡ Rendimiento (Core Web Vitals, carga rápida, UI eficiente)
 - 🧩 Componentes reutilizables y arquitectura mantenible
