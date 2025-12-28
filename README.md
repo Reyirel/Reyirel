@@ -82,15 +82,26 @@ Desarrollador Frontend & Full Stack · React / Next.js · Aplicaciones web escal
 
 ---
 
-## 📌 Proyectos destacados
+## 📈 Actividad y enfoque de trabajo
 
-> Puedes reemplazar los enlaces por tus repos exactos (o déjalos apuntando a tu portafolio).
+<p align="center">
+  <img src="https://img.shields.io/badge/C%C3%B3digo%20limpio-111827?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Componentizaci%C3%B3n-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Arquitectura%20Frontend-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/UX%20y%20Accesibilidad-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
 
-- 🌐 **Portafolio** — proyectos reales y demos  
-  https://codefolio-luis.vercel.app/
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reyirel&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+</p>
 
-- 🧩 **Repositorios** — código y prácticas  
-  https://github.com/Reyirel?tab=repositories
+### 🧠 Cómo trabajo
+
+- Diseño interfaces **claras, accesibles y orientadas al usuario**
+- Construyo componentes **reutilizables y escalables**
+- Priorizo **rendimiento, mantenibilidad y buenas prácticas**
+- Trabajo con control de versiones y flujos colaborativos
+
 
 ---
 
