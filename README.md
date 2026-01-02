@@ -19,7 +19,7 @@ Desarrollador Frontend & Full Stack · React / Next.js · Aplicaciones web escal
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo en una **plataforma web municipal**, enfocada en **accesibilidad, rendimiento y escalabilidad**
+- 🔭 Actualmente trabajo en **Gobierno**.
 - 🧩 He participado en proyectos tipo **CRM, LMS, dashboards administrativos** y sitios institucionales
 - 🧠 Me especializo en **React, Next.js, TypeScript** y arquitectura frontend moderna (componentización, estado, rendimiento)
 - 📍 México · Abierto a trabajo **remoto**
