@@ -4,7 +4,7 @@ Desarrollador Frontend & Full Stack · React / Next.js · Aplicaciones web escal
 </h3>
 
 <p align="center">
-  <a href="https://codefolio-luis.vercel.app/" target="_blank">🌐 Portafolio</a> •
+  <a href="[https://codefolio-luis.vercel.app/](https://chavero.dev/)" target="_blank">🌐 Portafolio</a> •
   <a href="https://www.linkedin.com/in/luis-alberto-chavero-chavez-013914360" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/Reyirel" target="_blank">🐙 GitHub</a>
 </p>
