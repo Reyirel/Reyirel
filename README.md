@@ -25,18 +25,26 @@
   </p>
 </div>
 
-✦ Sobre mí
-Soy un desarrollador enfocado en construir productos digitales intuitivos, rápidos y sostenibles, combinando un criterio visual sólido con una arquitectura frontend clara. Mi especialidad está en React, Next.js y TypeScript, con experiencia en integraciones Full Stack.
-Actualmente trabajo en Gobierno y he participado en el desarrollo de CRM, LMS, dashboards administrativos, sitios institucionales y aplicaciones de gestión. Me interesa convertir necesidades complejas en experiencias simples para quien las utiliza.
-📍 Ubicación	💼 Experiencia	🌎 Modalidad
-México	Sistemas administrativos y soluciones web	Abierto a remoto
+---
 
+## ✦ Sobre mí
 
-◈ Stack tecnológico
-Mi stack principal: React · Next.js · TypeScript · JavaScript · Tailwind CSS · Node.js
-Las tecnologías están visibles aunque un proveedor de iconos no cargue. La lista refleja herramientas utilizadas o exploradas; no todas tienen el mismo nivel de dominio.
+Soy un desarrollador enfocado en construir **productos digitales intuitivos, rápidos y sostenibles**, combinando un criterio visual sólido con una arquitectura frontend clara. Mi especialidad está en **React, Next.js y TypeScript**, con experiencia en integraciones Full Stack.
 
-01 / Frontend & UI
+Actualmente trabajo en **Gobierno** y he participado en el desarrollo de **CRM, LMS, dashboards administrativos, sitios institucionales y aplicaciones de gestión**. Me interesa convertir necesidades complejas en experiencias simples para quien las utiliza.
+
+| 📍 Ubicación | 💼 Experiencia | 🌎 Modalidad |
+| :--- | :--- | :--- |
+| México | Sistemas administrativos y soluciones web | Abierto a remoto |
+
+## ◈ Stack tecnológico
+
+**Mi stack principal:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · Node.js
+
+> Las tecnologías están visibles aunque un proveedor de iconos no cargue. La lista refleja herramientas utilizadas o exploradas; no todas tienen el mismo nivel de dominio.
+
+### 01 / Frontend & UI
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-202936?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-202936?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -50,7 +58,8 @@ Las tecnologías están visibles aunque un proveedor de iconos no cargue. La lis
   <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-202936?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
-02 / Backend & APIs
+### 02 / Backend & APIs
+
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-202936?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
   <img alt="Express" src="https://img.shields.io/badge/Express-202936?style=flat-square&logo=express&logoColor=white" />
@@ -59,14 +68,16 @@ Las tecnologías están visibles aunque un proveedor de iconos no cargue. La lis
   <img alt="Django" src="https://img.shields.io/badge/Django-202936?style=flat-square&logo=django&logoColor=44B78B" />
 </p>
 
-03 / Bases de datos & Cloud
+### 03 / Bases de datos & Cloud
+
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-202936?style=flat-square&logo=mysql&logoColor=4479A1" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-202936?style=flat-square&logo=firebase&logoColor=FFCA28" />
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-202936?style=flat-square&logo=googlecloud&logoColor=4285F4" />
 </p>
 
-04 / Mobile & Desktop
+### 04 / Mobile & Desktop
+
 <p>
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-202936?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-202936?style=flat-square&logo=flutter&logoColor=54C5F8" />
@@ -81,17 +92,15 @@ Las tecnologías están visibles aunque un proveedor de iconos no cargue. La lis
   <b>Prácticas:</b> Git, control de versiones, componentes reutilizables, integración de APIs, diseño responsive, accesibilidad y optimización de rendimiento.
 </details>
 
-✳ Mi enfoque
-	
-01 · Diseño que comunica
-Interfaces consistentes, accesibles y claras; atención a la experiencia completa.	02 · Arquitectura que escala
-Componentes reutilizables, estructura mantenible, rutas, estado e integración con APIs.
-03 · Producto funcional
-Flujos administrativos, autenticación, roles y soluciones centradas en problemas reales.	04 · Calidad en los detalles
-Rendimiento, buenas prácticas, legibilidad, UX y evolución del producto.
+## ✳ Mi enfoque
 
+|  |  |
+| :--- | :--- |
+| **01 · Diseño que comunica**<br/>Interfaces consistentes, accesibles y claras; atención a la experiencia completa. | **02 · Arquitectura que escala**<br/>Componentes reutilizables, estructura mantenible, rutas, estado e integración con APIs. |
+| **03 · Producto funcional**<br/>Flujos administrativos, autenticación, roles y soluciones centradas en problemas reales. | **04 · Calidad en los detalles**<br/>Rendimiento, buenas prácticas, legibilidad, UX y evolución del producto. |
 
-◉ GitHub en números
+## ◉ GitHub en números
+
 <div align="center">
   <a href="https://github.com/Reyirel">
     <img width="48%" alt="Estadísticas públicas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Reyirel&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;include_all_commits=true" />
@@ -101,10 +110,17 @@ Rendimiento, buenas prácticas, legibilidad, UX y evolución del producto.
   </a>
 </div>
 
+<h3 align="center">Actividad de contribuciones</h3>
+
 <div align="center">
   <a href="https://github.com/Reyirel">
-    <img width="98%" alt="Actividad de contribuciones de GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=Reyirel&amp;theme=github-compact&amp;hide_border=true&amp;area=true" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reyirel&amp;theme=github_dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reyirel&amp;theme=github" />
+      <img width="98%" alt="Resumen de actividad y contribuciones de Reyirel" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reyirel&amp;theme=github" />
+    </picture>
   </a>
+  <p><a href="https://github.com/Reyirel?tab=overview">Consultar mis contribuciones en GitHub ↗</a></p>
 </div>
 
 <p align="center"><sub>Los datos se consultan a servicios de terceros, pueden fallar ocasionalmente y no representan métricas verificadas de rendimiento profesional. <a href="https://github.com/Reyirel">Ver actividad oficial en GitHub ↗</a></sub></p>
@@ -115,9 +131,14 @@ Rendimiento, buenas prácticas, legibilidad, UX y evolución del producto.
   Las tarjetas reflejan datos de repositorios y actividad accesibles para sus servicios. La gráfica de lenguajes describe código detectado en repositorios, no experiencia ni nivel profesional. Si una tarjeta externa falla, usa los enlaces al perfil oficial.
 </details>
 
-✉ Conectemos
-¿Tienes una oportunidad de Frontend / Full Stack o te interesa colaborar en una experiencia digital bien diseñada?
-🌐 Portafolio   ·   💼 LinkedIn   ·   ✉ luis@chevero.dev
+## ✉ Conectemos
+
+¿Tienes una oportunidad de **Frontend / Full Stack** o te interesa colaborar en una experiencia digital bien diseñada?
+
+**[🌐 Portafolio](https://chavero.dev/)** &nbsp; · &nbsp; **[💼 LinkedIn](https://www.linkedin.com/in/luis-alberto-chavero-chavez-013914360)** &nbsp; · &nbsp; **[✉ luis@chevero.dev](mailto:luis@chevero.dev)**
+
+---
+
 <div align="center">
   <sub>Reyirel · Diseñar con intención. Desarrollar con propósito.</sub>
 </div>
