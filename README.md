@@ -1,116 +1,121 @@
+<!-- Perfil de Reyirel · contenido diseñado para GitHub Flavored Markdown -->
 <div align="center">
-  <a href="https://chavero.dev/" title="Visitar mi portafolio">
-    <img src="assets/banner.png" width="100%" alt="Reyirel (Luis) — Desarrollador Frontend y Full Stack. México, remoto, contacto: luis@chevero.dev" />
+  <a href="https://chavero.dev/" title="Ver portafolio de Reyirel">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+      <img width="100%" src="assets/banner-dark.svg" alt="Reyirel, desarrollador Frontend y Full Stack" />
+    </picture>
   </a>
 
-  <br /><br />
+  
 
-  <a href="https://chavero.dev/"><img src="https://img.shields.io/badge/PORTAFOLIO-Visitar-367BF5?style=for-the-badge&labelColor=101720&logo=vercel&logoColor=white" alt="Portafolio" /></a>
-  <a href="https://www.linkedin.com/in/luis-alberto-chavero-chavez-013914360"><img src="https://img.shields.io/badge/LINKEDIN-Conectar-367BF5?style=for-the-badge&labelColor=101720&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:luis@chevero.dev"><img src="https://img.shields.io/badge/CORREO-Escr%C3%ADbeme-367BF5?style=for-the-badge&labelColor=101720&logo=gmail&logoColor=white" alt="Correo" /></a>
 
-  <br /><br />
-  <strong>Diseño interfaces claras. Desarrollo sistemas que resuelven problemas reales.</strong>
-  <br />
-  <sub>🇲🇽 México &nbsp; • &nbsp; Frontend / Full Stack &nbsp; • &nbsp; Abierto a oportunidades remotas</sub>
-  <br /><br />
-  <a href="#sobre-mí">Sobre mí</a> &nbsp;·&nbsp;
-  <a href="#stack">Stack</a> &nbsp;·&nbsp;
-  <a href="#actividad">Actividad</a> &nbsp;·&nbsp;
-  <a href="#mi-enfoque">Enfoque</a> &nbsp;·&nbsp;
-  <a href="#contacto">Contacto</a>
+  <strong>Luis Alberto Chavero Chávez</strong> · Desarrollador Frontend & Full Stack
+  
+
+  <sub>México 🇲🇽 · React / Next.js / TypeScript · Abierto a oportunidades remotas</sub>
+  
+
+
+  <a href="https://chavero.dev/"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-222B3B?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luis-alberto-chavero-chavez-013914360"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-222B3B?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:luis@chevero.dev"><img alt="Correo" src="https://img.shields.io/badge/Email-222B3B?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Reyirel"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-222B3B?style=flat-square&logo=github&logoColor=white" /></a>
+  
+
+
+  <a href="#sobre-mi">Sobre mí</a>  ·  <a href="#tecnologias">Tecnologías</a>  ·  <a href="#lo-que-aporto">Lo que aporto</a>  ·  <a href="#metricas">Métricas</a>  ·  <a href="#contacto">Contacto</a>
 </div>
 
----
+<a id="sobre-mi"></a>
+01 / Sobre mí
+Desarrollo experiencias digitales intuitivas y aplicaciones web mantenibles, conectando el diseño de interfaces con la lógica de negocio. Me enfoco en React, Next.js y TypeScript, la arquitectura de componentes, el rendimiento y la accesibilidad.
+Actualmente trabajo en Gobierno y he participado en soluciones tipo CRM, LMS, dashboards administrativos y sitios institucionales. Me interesa construir productos que resuelvan necesidades reales, desde el frontend hasta sus integraciones.
+Mi trabajo	Mi enfoque
+Interfaces responsivas, flujos administrativos, integración con APIs y sistemas completos.	Claridad visual, consistencia, código limpio, rendimiento y experiencia de usuario.
 
-<a id="sobre-mí"></a>
-## 01 / Sobre mí
 
-Soy **Luis Alberto Chavero Chávez**, conocido en GitHub como **Reyirel**. Soy desarrollador **Frontend & Full Stack** y me gusta combinar ingeniería, diseño de interfaces y experiencia de usuario para construir aplicaciones web útiles, escalables y fáciles de mantener.
+<a id="tecnologias"></a>
+02 / Tecnologías y herramientas
+Un panorama completo de las herramientas con las que he trabajado. La presencia aquí no implica el mismo nivel de experiencia con todas ellas.
 
-Mi stack habitual es **React, Next.js y TypeScript**. He participado en aplicaciones de tipo **CRM, LMS, dashboards administrativos y sitios institucionales**, y actualmente trabajo en el sector gubernamental.
+Frontend · Diseño de interfaces
+Tecnología	Tecnología	Tecnología
+React	Next.js	TypeScript
+JavaScript	HTML5	CSS3
+Tailwind CSS	Bootstrap	Framer Motion
+Figma		
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>◈ Lo que hago</strong><br /><br />
-      Interfaces responsive, arquitectura de componentes, APIs, autenticación, roles y experiencias de usuario.
-    </td>
-    <td width="50%" valign="top">
-      <strong>↗ Lo que busco</strong><br /><br />
-      Colaborar en equipos donde el buen diseño, la calidad del código y el impacto real del producto importen.
-    </td>
-  </tr>
-</table>
 
-<a id="stack"></a>
-## 02 / Stack tecnológico
+Backend · APIs
+Tecnología	Tecnología	Tecnología
+Node.js	Express.js	Laravel
+Python	Django	
 
-**Tecnologías principales**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,tailwind,html,css,figma&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Node.js, Tailwind, HTML, CSS y Figma" />
-</p>
+Bases de datos · Cloud
+Tecnología	Tecnología	Tecnología
+MySQL	Firebase	Google Cloud
+
+
+Mobile · Desktop
+Tecnología	Tecnología	Tecnología
+React Native	Flutter	Electron
+Kotlin		
+
+
+Datos · Inteligencia artificial
+Tecnología	Área
+TensorFlow	Experiencia académica
+
 
 <details>
-  <summary><strong>Ver más herramientas y tecnologías</strong></summary>
-  <br />
-  
-  | Área | Tecnologías |
-  |:--|:--|
-  | **Frontend** | React · Next.js · TypeScript · JavaScript · Tailwind CSS · Bootstrap · Framer Motion |
-  | **Backend** | Node.js · Express · Laravel · Python · Django |
-  | **Datos y cloud** | MySQL · Firebase · Google Cloud |
-  | **Mobile / Desktop** | React Native · Flutter · Electron · Kotlin |
-  | **Diseño / Academia** | Figma · TensorFlow |
+<summary><strong>Ver stack principal con iconos</strong> · complemento visual</summary>
+<br />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,figma,nodejs,express,laravel,python,django,mysql,firebase,gcp,reactnative,flutter,electron,kotlin,tensorflow&amp;perline=8" alt="Iconos ilustrativos del stack tecnológico" />
+</p>
+Si los iconos no cargan, el listado completo de arriba permanece visible.
 </details>
 
-<a id="actividad"></a>
-## 03 / Actividad en GitHub
+<a id="lo-que-aporto"></a>
+03 / Lo que aporto
+	
+01 · UI/UX cuidado 
+ Diseño responsive, accesibilidad, componentes consistentes y flujos claros.	02 · Ingeniería frontend 
+ Arquitectura modular, gestión de estado, rutas y consumo de APIs.
+03 · Sistemas integrados 
+ Autenticación, roles, datos y comunicación entre frontend y backend.	04 · Calidad de producto 
+ Rendimiento, legibilidad, mantenibilidad y trabajo orientado a necesidades reales.
 
+
+<a id="metricas"></a>
+04 / GitHub · Actividad y métricas
+El origen de los datos es mi perfil público: GitHub / Reyirel · Repositorios · Contribuciones.
+<details>
+<summary><strong>Mostrar estadísticas dinámicas</strong> · dependen de un servicio externo</summary>
+<br />
 <div align="center">
-  <a href="https://github.com/Reyirel">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Reyirel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=72A7FF&text_color=C9D1D9&icon_color=72A7FF&rank_icon=github" alt="Estadísticas dinámicas del perfil Reyirel" />
-  </a>
-  <a href="https://github.com/Reyirel?tab=repositories">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyirel&layout=compact&hide_border=true&bg_color=0D1117&title_color=72A7FF&text_color=C9D1D9&langs_count=8" alt="Lenguajes de los repositorios accesibles del perfil Reyirel" />
-  </a>
+  <a href="https://github.com/Reyirel"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Reyirel&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;rank_icon=github" alt="Estadísticas públicas de GitHub de Reyirel" /></a>
+  <a href="https://github.com/Reyirel?tab=repositories"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyirel&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;langs_count=8" alt="Lenguajes detectados en repositorios públicos de Reyirel" /></a>
 </div>
+</details>
 
+<details>
+<summary><strong>Mostrar gráfica de contribuciones</strong> · servicio externo</summary>
+<br />
 <div align="center">
-  <a href="https://github.com/Reyirel?tab=overview">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Reyirel&bg_color=0D1117&color=C9D1D9&line=72A7FF&point=FFFFFF&area=true&hide_border=true" alt="Gráfica de actividad de GitHub" />
-  </a>
-  <br />
-  <sub>Las métricas utilizan servicios de terceros: pueden fallar o tardar en actualizarse. Los lenguajes reflejan el código de los repositorios analizados, no un nivel de dominio.</sub>
+  <a href="https://github.com/Reyirel"><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Reyirel&amp;theme=github-compact&amp;hide_border=true" alt="Gráfica de actividad pública de Reyirel" /></a>
 </div>
+</details>
 
-<a id="mi-enfoque"></a>
-## 04 / Mi enfoque
-
-<table>
-  <tr>
-    <td width="50%" valign="top"><strong>01 — Diseño con intención</strong><br /><br />Interfaces claras, accesibles y consistentes; cada elemento tiene una razón de existir.</td>
-    <td width="50%" valign="top"><strong>02 — Arquitectura que escala</strong><br /><br />Componentes reutilizables, tipado fuerte y código que otros desarrolladores puedan entender.</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><strong>03 — Rendimiento real</strong><br /><br />Atención a tiempos de carga, estados de la interfaz y experiencia en dispositivos distintos.</td>
-    <td width="50%" valign="top"><strong>04 — Producto primero</strong><br /><br />Entender el problema de las personas antes de elegir herramientas y soluciones.</td>
-  </tr>
-</table>
-
+<sub>Nota: las métricas de terceros pueden mostrar errores por límites de API. Los lenguajes se calculan sobre repositorios analizados y no miden dominio profesional. GitHub muestra el gráfico oficial de contribuciones directamente en tu perfil.</sub>
 <a id="contacto"></a>
-## 05 / Contacto
-
-¿Tienes una oportunidad laboral, una idea o una propuesta para colaborar? Me encantará conversar.
-
+05 / Contacto
+Estoy abierto a colaborar en equipos de Frontend / Full Stack, especialmente en productos donde importen tanto la ingeniería como la experiencia de usuario.
+Portafolio · LinkedIn · GitHub · luis@chevero.dev
 <div align="center">
-  <a href="mailto:luis@chevero.dev"><strong>✉️ luis@chevero.dev</strong></a>
-  <br /><br />
-  <a href="https://chavero.dev/">Portafolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/luis-alberto-chavero-chavez-013914360">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Reyirel">GitHub</a>
-  <br /><br />
-  <sub>Hecho con Markdown + HTML, con una portada propia y enlaces funcionales.</sub>
+  <sub>Diseño con intención. Desarrollo con propósito. · Reyirel</sub>
 </div>
 
